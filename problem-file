@@ -1,0 +1,19 @@
+I wish to hear from some expert over this issue.
+
+I want to create custom-mark-up-language which uses "utf-8" character set and "Sanskrit (संस्कृत)" locale keywords/tagNames.
+
+In my specifications "<" and ">" are to be replaced by "ॐ" and "अथ ॐ " respectively and the Document Type to be replaced by "भाषा"
+
+Someone please guide me how should I do so.
+
+I need help for the following:
+
+>> Defining Objects for my-custom-markup-language
+
+>> Defining Tag Names for my-custom-markup-language
+
+>> Defining namespace for my-custom-markup-language
+
+and all related areas for creating a mark-up-language.
+
+I need to know only about the methods to specify, define and create standards for a custom-mark-up-language.
